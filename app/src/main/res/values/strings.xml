@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quiz Room</string>
+
+    <string-array name="program_studi">
+        <item>D4 Teknik Informatika</item>
+        <item>D3 Teknik Informatika</item>
+    </string-array>
+</resources>
